@@ -1,4 +1,4 @@
-# WSURFC
+#  A Weakly Supervised Clustering Method for Cancer Subgroup Identification 
 1. Your expression data file should be a dataset in which first row contains patient barcodes or identites or names etc. and 
 first column contains variable names. It can be any csv format.
 2. Clinical set data is compliant with TCGA format. First column of matrix data contains patient identities and first row contains 
